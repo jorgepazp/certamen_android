@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="color_generar">#F57B51</color>
+    <color name="mas">#EE6352</color>
+    <color name="C">#3FA7D6</color>
+    <color name="por">#FAC05E</color>
+    <color name="div">#F79D84</color>
+    <color name="primo">#725AC1</color>
+    <color name="par">#85CB33</color>
+    <color name="resultado">#D81E5B</color>
+    <color name="numero">#531470</color>
+    <color name="blanco">#FFFFFF</color>
+</resources>
